@@ -1,4 +1,4 @@
 # DEMO-2024
-Lessons 1: git
+Lessons 1: Guide
 
 Hello, World!
